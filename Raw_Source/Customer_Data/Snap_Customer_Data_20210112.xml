@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Customerid>SNAP0001</Customerid>
+    <CustomerName>Madda Ramkumar</CustomerName>
+    <Customer Address1>Door No 39d/3, 8th Lane</Customer Address1>
+    <Customer Address2>Kotha Peta, Guntur</Customer Address2>
+    <zipCode>522436</zipCode>
+    <CountryCode>IND</CountryCode>
+    <Customer Email>****umar23419@gmail.com</Customer Email>
+    <Customer PhoneNumber>9949812***</Customer PhoneNumber>
+  </row>
+  <row>
+    <Customerid>SNAP0002</Customerid>
+    <CustomerName>Aditya Srinivas</CustomerName>
+    <Customer Address1>1st Line, Ramireddy Thota</Customer Address1>
+    <Customer Address2>Kothapet, Guntur</Customer Address2>
+    <zipCode>522436</zipCode>
+    <CountryCode>IND</CountryCode>
+    <Customer Email>****yaa25@yahoo.com</Customer Email>
+    <Customer PhoneNumber>9493891***</Customer PhoneNumber>
+  </row>
+  <row>
+    <Customerid>SNAP0003</Customerid>
+    <CustomerName>Pasalapudi Sai Ram</CustomerName>
+    <Customer Address1>214/9, Station Road</Customer Address1>
+    <Customer Address2>Railpet, Guntur</Customer Address2>
+    <zipCode>522436</zipCode>
+    <CountryCode>IND</CountryCode>
+    <Customer Email>****ram2493@gmail.com</Customer Email>
+    <Customer PhoneNumber>7207601***</Customer PhoneNumber>
+  </row>
+  <row>
+    <Customerid>SNAP0004</Customerid>
+    <CustomerName>Syed Kaleemuddin</CustomerName>
+    <Customer Address1>6/2 Arundelpet</Customer Address1>
+    <Customer Address2>Guntur</Customer Address2>
+    <zipCode>522436</zipCode>
+    <CountryCode>IND</CountryCode>
+    <Customer Email>****kaleem94@gmail.com</Customer Email>
+    <Customer PhoneNumber>9492084***</Customer PhoneNumber>
+  </row>
+  <row>
+    <Customerid>SNAP0005</Customerid>
+    <CustomerName>Kondada Kiran Kumar</CustomerName>
+    <Customer Address1>Old Club Road</Customer Address1>
+    <Customer Address2>Kothapet, Guntur</Customer Address2>
+    <zipCode>522436</zipCode>
+    <CountryCode>IND</CountryCode>
+    <Customer Email>****n.dongaaru@gmail.com</Customer Email>
+    <Customer PhoneNumber>9533934***</Customer PhoneNumber>
+  </row>
+  <row>
+    <Customerid>SNAP0006</Customerid>
+    <CustomerName>Bonta Pradip</CustomerName>
+    <Customer Address1>Mangalagiri Road, Chinakakani</Customer Address1>
+    <Customer Address2>Mangalagiri , Guntur</Customer Address2>
+    <zipCode>522436</zipCode>
+    <CountryCode>IND</CountryCode>
+    <Customer Email>****sh.pradip999@gmail.com</Customer Email>
+    <Customer PhoneNumber>8897958***</Customer PhoneNumber>
+  </row>
+  <row>
+    <Customerid>SNAP0007</Customerid>
+    <CustomerName>Gurugubelli Vishnu Pramod Teja</CustomerName>
+    <Customer Address1>Old Club Road, Coastal Andhra Region</Customer Address1>
+    <Customer Address2>GV Thota, Guntur</Customer Address2>
+    <zipCode>522436</zipCode>
+    <CountryCode>IND</CountryCode>
+    <Customer Email>****hnupramodteja@gmail.com</Customer Email>
+    <Customer PhoneNumber>9581219***</Customer PhoneNumber>
+  </row>
+  <row>
+    <Customerid>SNAP0008</Customerid>
+    <CustomerName>Ella Vikas</CustomerName>
+    <Customer Address1># 27 - 1 - 12, Main Road</Customer Address1>
+    <Customer Address2>Arundelpet, Guntur,</Customer Address2>
+    <zipCode>522436</zipCode>
+    <CountryCode>IND</CountryCode>
+    <Customer Email>****sella143@gmail.com</Customer Email>
+    <Customer PhoneNumber>9492967***</Customer PhoneNumber>
+  </row>
+  <row>
+    <Customerid>SNAP0009</Customerid>
+    <CustomerName>Sana Mahesh Kumar</CustomerName>
+    <Customer Address1>Near R.T.C Bus Stand</Customer Address1>
+    <Customer Address2>Beside Monipuram Overbridge, Guntur</Customer Address2>
+    <zipCode>522436</zipCode>
+    <CountryCode>IND</CountryCode>
+    <Customer Email>****shkumarsana@gmail.com</Customer Email>
+    <Customer PhoneNumber>8099208***</Customer PhoneNumber>
+  </row>
+  <row>
+    <Customerid>SNAP0010</Customerid>
+    <CustomerName>M Naveen</CustomerName>
+    <Customer Address1>5-37-77, 4/10, Opp City Cables</Customer Address1>
+    <Customer Address2>Brodipet, Guntur</Customer Address2>
+    <zipCode>522436</zipCode>
+    <CountryCode>IND</CountryCode>
+    <Customer Email>****mohan12318@gmail.com</Customer Email>
+    <Customer PhoneNumber>9889088***</Customer PhoneNumber>
+  </row>
+</root>
