@@ -1,0 +1,17 @@
+[
+  {
+    "order_id": 101,
+    "customerid": "TTC00001  ",
+    "products": [
+      {"name": "Laptop", "price": 1000},
+      {"name": "KeyBoard", "price": 25}
+    ]
+  },
+  {
+    "order_id": 102,
+    "customerid": "TTC00002  ",
+    "products": [
+      {"name": "Smartphone", "price": 800}
+    ]
+  }
+]
